@@ -1,0 +1,2 @@
+// cosI is the cosine of the incident angle, that is, 
+cos0 = dot(view angle, normal) 
